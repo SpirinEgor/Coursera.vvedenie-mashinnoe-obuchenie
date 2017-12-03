@@ -1,2 +1,2 @@
-# Coursera.vvedenie-mashinnoe-obuchenie
-Введение в машинное обучение
+# Введение в машинное обучение
+https://www.coursera.org/learn/vvedenie-mashinnoe-obuchenie/
